@@ -1,0 +1,41 @@
+img/mario.jpg
+Mario Bros
+Es un personaje ficticio de la franquicia de videojuegos homónima diseñado por el japonés Shigeru Miyamoto para la compañía Nintendo.
+Actuando como la mascota de la compañía, con su aparición en videojuegos, series televisivas y películas, se ha posicionado como el ícono 
+emblemático de Nintendo, llegando a ser uno de los personajes más famosos y conocidos de videojuegos de todos los tiempos, junto a su hermano 
+menor Luigi, quien es su compañero ícono en diversos juegos y lo ayuda a cumplir su misión.
+
+
+
+img/luigi.jpg
+Luigi
+Es un personaje ficticio de videojuegos creado por el destacado diseñador japonés Shigeru Miyamoto para la compañía Nintendo.
+Luigi es el hermano menor de Mario y es el icónico compañero de su hermano mayor a lo largo de la franquicia de Mario. 
+Luigi apareció por primera vez en el juego Mario Bros. de Game & Watch como ayudante de Mario y retuvo este papel en juego arcade de Mario Bros,
+como el personaje controlado por el segundo jugador y repitió este papel en Super Mario Bros. 
+Super Mario Bros. 3, Super Mario World y otros títulos.
+
+
+img/yoshi.jpg
+Yoshi
+El mejor amigo de Mario es un dinosaurio pequeño llamado Yoshi. Apareció por primera vez en el juego Super Mario World (1990), 
+aunque en la línea del tiempo ficticia de la serie, sería en Super Mario World 2: Yoshi's Island (1995) 
+la primera vez que Mario y Yoshi se conocen, ayudando tanto a él como a su hermano Luigi a llegar junto a sus padres. 
+Por lo general es de color verde, pero también han aparecido Yoshis de otros colores.
+
+
+
+img/peach.jpg
+Peach
+La Princesa Peach (conocida anteriormente como Princesa Toadstool) es la princesa del Reino Champiñón. 
+Apareció por primera vez en el juego Super Mario Bros. (1985) como la damisela en apuros. 
+Tiene el cabello rubio y usa un vestido color rosa. Se dice que ella y Mario son pareja. 
+Ha sido secuestrada por Bowser en numerosas ocasiones, siendo siempre rescatada por Mario.
+
+
+
+img/hongito.jpg
+Hongito
+Toad es un pequeño humanoide con la cabeza en forma de champiñón. Apareció por primera vez en Super Mario Bros (1985), en dicho juego, 
+cuando Mario lo rescataba, Toad decía: Thank you Mario! But our princess is in another castle — en español: «Gracias Mario, 
+pero nuestra princesa está en otro castillo.»— En Super Mario Bros. 
